@@ -1,14 +1,14 @@
-package com.dkc.snake;
+package snake;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
-import com.dkc.model.Model;
-import com.dkc.snake.util.BodyPart;
-import com.dkc.snake.util.Dot;
-import com.dkc.snake.util.SnakeMath;
-import com.dkc.view.Sprite;
+import model.Model;
+import snake.util.BodyPart;
+import snake.util.Dot;
+import snake.util.SnakeMath;
+import view.Sprite;
 
 public class SnakeGameModel extends Model
 {

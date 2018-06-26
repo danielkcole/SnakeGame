@@ -1,6 +1,6 @@
-package com.dkc.snake;
+package snake;
 
-import com.dkc.view.View;
+import view.View;
 
 public class SnakeGameView extends View
 {

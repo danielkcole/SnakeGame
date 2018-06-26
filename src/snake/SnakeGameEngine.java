@@ -1,7 +1,7 @@
-package com.dkc.snake;
+package snake;
 
-import com.dkc.controller.Controller;
-import com.dkc.model.GameEngine;
+import controller.Controller;
+import model.GameEngine;
 
 public class SnakeGameEngine extends GameEngine
 {

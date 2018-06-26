@@ -1,11 +1,11 @@
-package com.dkc.snake.util;
+package snake.util;
 
-import com.dkc.model.IDrawable;
-import com.dkc.view.Sprite;
+import model.IDrawable;
+import view.Sprite;
 
 import java.io.IOException;
 
-import com.dkc.model.GameObject;
+import model.GameObject;
 
 public class Dot extends GameObject implements IDrawable {
 	private Sprite sprite;

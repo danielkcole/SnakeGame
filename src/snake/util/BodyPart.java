@@ -1,12 +1,11 @@
-package com.dkc.snake.util;
+package snake.util;
 
-import com.dkc.model.IDrawable;
+import model.GameObject;
+import model.IDrawable;
+import model.IMoving;
+import view.Sprite;
 
 import java.io.IOException;
-
-import com.dkc.model.GameObject;
-import com.dkc.model.IMoving;
-import com.dkc.view.Sprite;
 
 
 public class BodyPart extends GameObject implements IDrawable, IMoving

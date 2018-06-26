@@ -1,7 +1,7 @@
-package com.dkc.snake.util;
+package snake.util;
 
-import com.dkc.model.GameObject;
-import com.dkc.model.IDrawable;
+import model.GameObject;
+import model.IDrawable;
 
 public class SnakeMath {
 	private SnakeMath() { throw new IllegalStateException("Utility class"); }

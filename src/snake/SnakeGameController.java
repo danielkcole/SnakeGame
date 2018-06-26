@@ -1,10 +1,10 @@
-package com.dkc.snake;
+package snake;
 
 import java.util.List;
 
-import com.dkc.controller.Controller;
-import com.dkc.model.Model;
-import com.dkc.view.View;
+import controller.Controller;
+import model.Model;
+import view.View;
 
 /**
  * Same coomment my code is trash.
