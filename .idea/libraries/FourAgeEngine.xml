@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FourAgeEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FourAgeEngine/bin/artifacts/FourAgeEngine_jar/FourAgeEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

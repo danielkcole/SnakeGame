@@ -6,6 +6,9 @@ import com.dkc.controller.Controller;
 import com.dkc.model.Model;
 import com.dkc.view.View;
 
+/**
+ * Same coomment my code is trash.
+ */
 public class SnakeGameController extends Controller
 {
 	@Override
