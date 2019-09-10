@@ -6,9 +6,6 @@ import controller.Controller;
 import model.Model;
 import view.View;
 
-/**
- * Same coomment my code is trash.
- */
 public class SnakeGameController extends Controller
 {
 	@Override
